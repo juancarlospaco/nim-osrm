@@ -98,6 +98,14 @@ using the Open Source Routing Machine for OpenStreetMap API online services.
 <details>
   <summary>Click to see FAQ</summary>
 
+- Para que sirve ?
+
+Para hacer Apps del estilo "Como llego", para hacer Open Data, Data Science, cosas de OpenStreetMap, GeoCosos.
+
+- Yo solo hablo Espanol ?
+
+La aplicacion de linea de comandos soporta Espanol.
+
 - This works without SSL ?.
 
 Yes.
@@ -181,10 +189,6 @@ Yes. [**You MUST give Credit to OpenStreetMap Contributors!.**](https://wiki.ope
 - How to see the Help ?
 
 `--help`
-
-- Yo solo hablo Espanol ?
-
-La aplicacion de linea de comandos soporta Espanol.
 
 </details>
 
