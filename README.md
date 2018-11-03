@@ -95,6 +95,9 @@ using the Open Source Routing Machine for OpenStreetMap API online services.
 
 # FAQ
 
+<details>
+  <summary>Click to see FAQ</summary>
+
 - This works without SSL ?.
 
 Yes.
@@ -122,6 +125,64 @@ No.
 - Can I use the OpenStreetMap data ?.
 
 Yes. [**You MUST give Credit to OpenStreetMap Contributors!.**](https://wiki.openstreetmap.org/wiki/Legal_FAQ#3a._I_would_like_to_use_OpenStreetMap_maps._How_should_I_credit_you.3F)
+
+- How to Uglify the output?
+
+`--ugly`
+
+- How to Lowercase the output?
+
+`--lower`
+
+- How to enable Alternatives?
+
+`--alternatives`
+
+- How to enable Steps?
+
+`--steps`
+
+- How to enable Continue Straight ?
+
+`--straight`
+
+- How to enable Overviews ?
+
+`--overviews`
+
+- How to enable Hints ?
+
+`--hints`
+
+- How to set a Timeout ?
+
+`--timeout=99`
+
+- How to set the output Format ?
+
+`--format=geojson`
+
+- How to set the "From" Coordinates ?
+
+`--from_lat=42.666 --from_lon=10.55`
+
+- How to set the "To" Coordinates ?
+
+`--to_lat=15.42 --to_lon=12.75`
+
+- How to use colors ?
+
+`--color`
+
+- How to set the Profile ?
+
+`--profile=bike`, `--profile=car`, etc
+
+- How to see the Help ?
+
+`--help`
+
+</details>
 
 
 # Requisites
