@@ -82,7 +82,7 @@ using the Open Source Routing Machine for OpenStreetMap API online services.
 - API Calls are Anonymous and use a blank User-Agent.
 - API Calls use [the DoNotTrack HTTP Header.](https://en.wikipedia.org/wiki/Do_Not_Track)
 - The `timeout` argument is on Seconds.
-- For Proxy support define a `OSM.proxy` or `AsyncOSM.proxy` of `Proxy` type.
+- For Proxy support define a `proxy` of `Proxy` type.
 - No OS-specific code, so it should work on Linux, Windows and Mac. Not JS.
 - Run the module itself for an Example.
 - Run `nim doc osrm.nim` for more Documentation.
