@@ -182,6 +182,10 @@ Yes. [**You MUST give Credit to OpenStreetMap Contributors!.**](https://wiki.ope
 
 `--help`
 
+- Yo solo hablo Espanol ?
+
+La aplicacion de linea de comandos soporta Espanol.
+
 </details>
 
 
